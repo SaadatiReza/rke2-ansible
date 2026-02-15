@@ -1,8 +1,5 @@
 Build a Kubernetes cluster using RKE2 via Ansible
 =========  
-#<p align="center">
-#  <img src="./docs/assets/RGS_Logo.png" />
-#</p>
 
 
 > [!CAUTION]  
